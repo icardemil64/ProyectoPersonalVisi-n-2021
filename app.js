@@ -1,4 +1,6 @@
 const moduloSistema = (() => {
+    const latd_label = document.getElementById("d_lat");
+    const long_label = document.getElementById("d_long");
 
     const getCoordenadas = () => {
         console.log("Entre")
@@ -11,7 +13,9 @@ const moduloSistema = (() => {
     }
 
     const setCoordenadas = (pos) => {
-        console.log(pos);
+        let cord = pos.coords;
+        latd_label.innerHTML = cord.latitude;
+        long_label.innerHTML = cord.longitude;
     }
 
     return{
