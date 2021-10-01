@@ -6,13 +6,13 @@ Proyecto personal realizado para el electivo de visión computacional. El objeti
 
 Utiliza marcadores tradicionales para proyectar un modelo en 3D sobre él, con la finalidad de simular las dimensiones del objeto en cuestión.
 
-![Resultado marcadores](out/marker.png?raw=true "Resultado ORB")
+![Resultado marcadores](out/marker.PNG?raw=true "Resultado ORB")
 
 ## Segunda experiencia 🕹️
 
 Utiliza la portada de un videojuego para proyectar el tráiler del mismo. Utiliza el algoritmo [FREAK](https://www.researchgate.net/publication/258848394_FREAK_Fast_retina_keypoint) para obtener los descriptores de las portadas para realizar el proceso de matching.
 
-![Resultado NFT](out/nft.png?raw=true "Resultado ORB")
+![Resultado NFT](out/nft.PNG?raw=true "Resultado ORB")
 
 ## Librerías 📦
 
