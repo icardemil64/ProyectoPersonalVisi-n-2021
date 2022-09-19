@@ -1,6 +1,6 @@
 # Proyecto visión computacional 📱
 
-Proyecto personal realizado para el electivo de visión computacional. El objetivo del sistema es ofrecer dos tipos de experiencias con Realidad Aumentada (AR) utilizando marcadores utilizando tecnología web.
+Proyecto personal realizado para el electivo de visión computacional. El objetivo del sistema es ofrecer dos tipos de experiencias con Realidad Aumentada (AR) utilizando marcadores con tecnología web.
 
 ## Primera experiencia 💻
 
